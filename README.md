@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Nice To Meet You
+  I'm Peeranat Srisuthangkul or you can also call me Peanut, Computer Engineering student at Kasetsart University (Undergraduated Program)
+  
 
 <!--
 **peeranat45/peeranat45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
