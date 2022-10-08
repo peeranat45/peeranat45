@@ -20,7 +20,7 @@ Tools that I Use
   
 <div>
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />;
-  <img src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white&style=for-the-badge" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
  
 <div>
