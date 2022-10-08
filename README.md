@@ -44,6 +44,7 @@ Other Tools
 
 
 Contact
+For Work : peeranat.srisu@gmail.com
 <div>
   <a href="https://www.facebook.com/peeranat.srisuthangkul.1/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" link="https://www.facebook.com/peeranat.srisuthangkul.1/"/></a>
   <img hrsrc="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
