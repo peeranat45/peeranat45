@@ -46,7 +46,6 @@ Other Tools
 Contact
 <div>
   <a href="https://www.facebook.com/peeranat.srisuthangkul.1/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" link="https://www.facebook.com/peeranat.srisuthangkul.1/"/></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZcqWDfxlNRplPmqHcHXvxGMbXGcPNKqxNRTVrpfBMzTLjglJvkZftQCbXSSzJmlVFJJfm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img hrsrc="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   <a href="https://www.linkedin.com/in/peeranat-srisuthangkul-683a18250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
