@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 Tools that I Use
 
   
-<div>
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />;
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
- 
-<div>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeranat45&hide=contribs&show_icons=true&theme=radical)
