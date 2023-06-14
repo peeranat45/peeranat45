@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Work Experience
+## Work Experience
 - Computer Network Researcher at Nara Institute of Science and Technology, Japan (April - June 2023)
 
-Interested Topic
+## Interested Topic
 - Image Processing
 - Deep Learning
 - Network Programming (SDN)
 
-Tools that I Use
+## Tools that I Use
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
