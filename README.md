@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 Work Experience
-- Researcher at Nara Institute of Science and Technology (April - June 2023)
+- Computer Network Researcher at Nara Institute of Science and Technology (April - June 2023)
 
 Tools that I Use
 
