@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Work Experience
+- Researcher at Nara Institute of Science and Technology (April - June 2023)
+
 Tools that I Use
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
