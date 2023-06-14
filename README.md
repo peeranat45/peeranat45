@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Work Experience
 - Computer Network Researcher at Nara Institute of Science and Technology, Japan (April - June 2023)
 
-Interested
+Interested Topic
 - Image Processing
 - Deep Learning
 - Network Programming (SDN)
