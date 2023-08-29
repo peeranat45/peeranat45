@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - Image Processing
 - Deep Learning
 - Network Programming (SDN)
+- Macroeconomics
 
 ## Tools that I Use
 
