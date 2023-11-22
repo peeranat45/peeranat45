@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ## Interested Topic
 - Network Programming (SDN)
-- Macroeconomics
+- Network Data Named (NDN)
+- Data Science
 
 ## Tools that I Use
 
