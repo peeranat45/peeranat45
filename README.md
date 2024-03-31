@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - Network Data Named (NDN)
 - Data Science
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeranat45)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peeranat45)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tools that I Use
