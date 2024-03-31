@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Network Data Named (NDN)
 - Data Science
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeranat45&hide_progress=true)
 
 
 ## Tools that I Use
