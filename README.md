@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ## Work Experience
-- Computer Network Researcher at Nara Institute of Science and Technology. Nara, Japan (April - June 2023)
+- Researcher Intern at Nara Institute of Science and Technology. Nara, Japan (April - June 2023)
 - Associate Backend Engineer at Arise by INFINITAS. Bangkok, Thailand (May 2024 - Present)
 
