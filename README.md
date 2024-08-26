@@ -1,5 +1,5 @@
 ### Hi there 👋 Nice To Meet You
-  I'm Peeranat Srisuthangkul or you can also call me Peanut, Computer Engineering student at Kasetsart University (Undergraduated Program)
+  I'm Peeranat Srisuthangkul or you can also call me Peanut. Backend Engineer at Arise by INFINITAS
   
 <!--
 **peeranat45/peeranat45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Education
+- Bachelor Degree of Computer Engineering, Kasetsart University
 
 ## Work Experience
 - Researcher Intern at Nara Institute of Science and Technology. Nara, Japan (April - June 2023)
