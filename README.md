@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Education
-- Bachelor Degree of Computer Engineering, Kasetsart University
+- Bachelor Degree of Computer Engineering, Kasetsart University (July 2020 - April 2024)
 
 ## Work Experience
 - Researcher Intern at Nara Institute of Science and Technology. Nara, Japan (April - June 2023)
